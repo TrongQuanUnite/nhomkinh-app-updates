@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.5.0.zip",
-  "sha256": "e9f091cb2609b1342c3bdc3625b7366413cf4579831e8752e0f1c01b23069274",
-  "notes": "Bốn tab Kế hoạch/Sản xuất/Lắp đặt/Định vị; lựa chọn hoặc nhập tự do, ghi chú riêng, báo cáo theo tài khoản kèm ảnh/clip; phân quyền từng mục. Cột Sheet mới chỉ thêm ở cuối."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.5.1.zip",
+  "sha256": "a0a51dd97f2f258b0434ad9a5d26854abaae519588352deeca1b0892f0230c6f",
+  "notes": "Chủ sửa/thêm/xóa tùy chọn ngay cạnh từng mục và lưu dùng về sau; Lắp đặt có trạng thái mặc định như Sản xuất; báo cáo chỉ hiện tên người; chủ được xóa công trình."
 }
