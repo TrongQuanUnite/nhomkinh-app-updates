@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.3.zip",
-  "sha256": "b75f76d0ec12f30db4833f092b6ae43bbb82f0414bd945387ee282153d6655f1",
-  "notes": "Cập nhật có trạng thái và thời gian chờ; tiếp tục khởi động lại nếu gói đang chờ; tự hoàn tất gói tải dở khi mở app."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.4.zip",
+  "sha256": "21ab701e217cb93c51d4cfc767db07fbcdf7d0cdbd56917e94089f484ca0c55d",
+  "notes": "Đọc thẻ Google Maps iframe và tọa độ pb nhúng; hiển thị số thẻ/cặp định vị quét được và lỗi mở nhóm."
 }
