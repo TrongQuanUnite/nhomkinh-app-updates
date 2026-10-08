@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.7.0.zip",
-  "sha256": "1d7af2b376ccced301310a02d8e7eb8e8758f5d41a1a78bb2a49206fc1914518",
-  "notes": "Thêm Cửa Nhựa ở Sản xuất và Lắp đặt; tab Bản vẽ một PDF hiện tại; nút mở bản vẽ/định vị trên danh sách gọn; thông báo cập nhật chỉ cho trithanh."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.8.0.zip",
+  "sha256": "61f09e960ada83d5983e9f4d683693f73eadd5bf7787dcb959fe1a2a65c12791",
+  "notes": "Tài khoản đã duyệt xem tất cả công trình, quyền sửa theo tab; bỏ đội trưởng trong duyệt/đăng ký; trạng thái tổng hai lựa chọn trong Kế hoạch và bộ lọc."
 }
