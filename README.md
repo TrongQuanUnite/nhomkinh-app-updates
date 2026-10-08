@@ -1,7 +1,11 @@
-# Nhôm Kính App — cập nhật online
+# Nhôm Kính + Zalo
 
-Kho phát hành công khai cho app Nhôm Kính + Zalo. Bản hiện tại: 2.3.0.
+Bản mới: 2.3.1 — thiết lập tự động.
 
-Trong app: Cài đặt > Cập nhật, nguồn `TrongQuanUnite/nhomkinh-app-updates`, kiểm tra rồi cài cập nhật. App tự dừng bot Zalo và khởi động lại sau cập nhật.
+Chạy CHAY_UNG_DUNG.bat, đăng nhập chủ rồi bấm Thiết lập tự động. Đặt thư mục AI Zalo cũ cạnh thư mục app để tự nhập cấu hình và khóa Google. App thử nối Sheet, bổ sung cột còn thiếu và mở Zalo để quét QR. Cấu hình có sẵn được giữ nguyên.
 
-ZIP trong updates chỉ chứa mã ứng dụng, không chứa dữ liệu công trình, tài khoản, khóa Google/OpenAI hoặc phiên đăng nhập Zalo.
+Tin người chưa ghép tài khoản chỉ vào hàng đợi chủ duyệt, không truy cập dữ liệu hoặc tự ghi. AI là tùy chọn bật riêng.
+
+Cập nhật trong app: Cài đặt > Cập nhật, nguồn TrongQuanUnite/nhomkinh-app-updates.
+
+Gói cập nhật chỉ có mã nguồn, không có khóa/token, dữ liệu công trình hay phiên Zalo.
