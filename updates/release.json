@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.4.0.zip",
-  "sha256": "fd5602aef2583f2445c0ab7df4df1a64acea49a64b6b1f74ff26322c60199011",
-  "notes": "Phân quyền từng mục cho tài khoản con; sửa quyền không cần đổi mật khẩu; kiểm tra quyền API và tải ảnh; tạm dừng Zalo. Tài khoản cũ chỉ xem đến khi chủ cấp quyền."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.5.0.zip",
+  "sha256": "e9f091cb2609b1342c3bdc3625b7366413cf4579831e8752e0f1c01b23069274",
+  "notes": "Bốn tab Kế hoạch/Sản xuất/Lắp đặt/Định vị; lựa chọn hoặc nhập tự do, ghi chú riêng, báo cáo theo tài khoản kèm ảnh/clip; phân quyền từng mục. Cột Sheet mới chỉ thêm ở cuối."
 }
