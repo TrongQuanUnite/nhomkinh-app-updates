@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.3.5",
+  "version": "2.4.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.5.zip",
-  "sha256": "f2e7085922ff4c0443e9f5388af6d5a70cf9d98144ea28c77bd2611d58923394",
-  "notes": "Nhận thẻ vị trí theo nội dung, đọc link trong iframe Google Maps, hiện kết quả hàng đợi; nhận @AI gửi từ cùng tài khoản bot và chống lặp tin bot trả lời."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.4.0.zip",
+  "sha256": "fd5602aef2583f2445c0ab7df4df1a64acea49a64b6b1f74ff26322c60199011",
+  "notes": "Phân quyền từng mục cho tài khoản con; sửa quyền không cần đổi mật khẩu; kiểm tra quyền API và tải ảnh; tạm dừng Zalo. Tài khoản cũ chỉ xem đến khi chủ cấp quyền."
 }
