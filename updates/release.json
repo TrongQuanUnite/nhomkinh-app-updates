@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.5.1",
+  "version": "2.6.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.5.1.zip",
-  "sha256": "a0a51dd97f2f258b0434ad9a5d26854abaae519588352deeca1b0892f0230c6f",
-  "notes": "Chủ sửa/thêm/xóa tùy chọn ngay cạnh từng mục và lưu dùng về sau; Lắp đặt có trạng thái mặc định như Sản xuất; báo cáo chỉ hiện tên người; chủ được xóa công trình."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.6.0.zip",
+  "sha256": "5a1c5eed3673b10bca5c164638e71506c5dc76faa9fea8b88f67eb0246050488",
+  "notes": "Phân quyền theo 4 tab; thợ tự đăng ký, chủ duyệt/chọn đội/cấp quyền; hỗ trợ thiết lập chủ từ file riêng trên máy."
 }
