@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.1.zip",
-  "sha256": "385ea3fb135466792e4a8465bf9ce2435ec7a393d81c9786605d01ef8d352e37",
-  "notes": "Thiết lập tự động từ tool cũ, nối Sheet và mở Zalo; hướng dẫn ngắn; giữ tin người chưa ghép cho chủ duyệt."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.2.zip",
+  "sha256": "18d824559637b02e7e4ebb6e7e68cbe2eee607d9c4954a7c943ae12a98442c69",
+  "notes": "Sửa chờ QR sau đăng nhập; định vị quét mỗi 10 giây, lần quét đầu và người chưa ghép vào chủ duyệt; không bỏ tin khi bridge chưa ghi được."
 }
