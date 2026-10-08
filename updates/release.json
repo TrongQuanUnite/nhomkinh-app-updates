@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.2.zip",
-  "sha256": "18d824559637b02e7e4ebb6e7e68cbe2eee607d9c4954a7c943ae12a98442c69",
-  "notes": "Sửa chờ QR sau đăng nhập; định vị quét mỗi 10 giây, lần quét đầu và người chưa ghép vào chủ duyệt; không bỏ tin khi bridge chưa ghi được."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.3.zip",
+  "sha256": "b75f76d0ec12f30db4833f092b6ae43bbb82f0414bd945387ee282153d6655f1",
+  "notes": "Cập nhật có trạng thái và thời gian chờ; tiếp tục khởi động lại nếu gói đang chờ; tự hoàn tất gói tải dở khi mở app."
 }
