@@ -1,0 +1,8 @@
+{
+  "app_id": "nhomkinh-app",
+  "version": "2.3.0",
+  "min_python": "3.10.0",
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.3.0.zip",
+  "sha256": "bb564acb5715d375446b922134938d4c6d63919cd815f4d34bc1c834e565cf32",
+  "notes": "Gộp web + bot Zalo trong một app, tự quản lý bot/trình duyệt, nhập cấu hình tool cũ, lịch lắp/định vị/nhắc lịch 18 giờ."
+}
