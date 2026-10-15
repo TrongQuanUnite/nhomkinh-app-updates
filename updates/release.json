@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.9.0.zip",
-  "sha256": "365d664253a9accb6af8079e3789bf24062bf67dad1254a1776f67e33e207099",
-  "notes": "Giao diện gọn và sáng hơn; bỏ ghi chú riêng ở ô nhập; chủ thêm/sửa tùy chọn từ danh sách xổ xuống; Báo cáo lên đầu tab Lắp đặt."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.9.1.zip",
+  "sha256": "a6bf0eb2d01cbab0fd81294ba3597ec8f21b9cf7dfa0379c9f55037bb85f2ff6",
+  "notes": "Hai nút bản vẽ/định vị hiện rõ Đã có hoặc Chưa có; cài thư mục Drive mặc định lưu ảnh, clip và PDF khi chưa chọn thư mục."
 }
