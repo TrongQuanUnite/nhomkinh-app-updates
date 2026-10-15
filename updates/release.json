@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.10.0.zip",
-  "sha256": "c7719c59c309a4a04782f3cd532f3b302c2eeed7cc89699d6ee47410eb6ad25b",
-  "notes": "Tab Bản vẽ thêm File lưu trữ: tải CAD, ZIP, Excel và file bất kỳ lên Drive; giữ PDF xem nhanh riêng; tải file qua tài khoản web, phân quyền theo tab Bản vẽ."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.10.1.zip",
+  "sha256": "2efe55f322ac8ebdc26109d65e6a6bc442dd83646989720e32c89af077df222b",
+  "notes": "Làm gọn tab Bản vẽ: bỏ nhập link ngoài và khung xem trước PDF; giữ tải lên, mở/tải PDF và file lưu trữ."
 }
