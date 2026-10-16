@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.11.0",
+  "version": "2.12.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.11.0.zip",
-  "sha256": "53aae54461f352536ac0ac44397a2d7ea300b3a5cf5c79d7a09c51a5190b1855",
-  "notes": "Bản vẽ thành danh sách nhiều file: chọn nhiều PDF/CAD, xóa khỏi công trình, không đặt giới hạn số file; bỏ link ngoài và xem trước."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.12.0.zip",
+  "sha256": "fcd2fb5b53428efd58b2102e99fbd2478b8dc58430ca40087ca6de5e807684e6",
+  "notes": "Khách mở web xem công trình ngay, không cần đăng ký. Nút Đăng nhập/Đăng ký ở góc trên; mọi thao tác thay đổi vẫn cần tài khoản có quyền."
 }
