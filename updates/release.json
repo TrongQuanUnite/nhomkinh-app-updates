@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.14.0",
+  "version": "2.14.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.14.0.zip",
-  "sha256": "20adcae9002491acc0cfd6bae5e2db1a9d12956d18f91e7de2bf5b0a319a60be",
-  "notes": "Gọn Kế hoạch: bỏ thông tin cũ, nhập lịch DD/MM/YYYY HH:mm. Hiện nhắc lịch trong 24 giờ tới cho tài khoản đăng nhập khi mở web, theo giờ Việt Nam."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.14.1.zip",
+  "sha256": "a1e1a14f07b06d5d57c1c2bbb0caf9b5e07735c022b89ab4e95b1e7d46f8f1ef",
+  "notes": "Mặc định danh sách chỉ hiện công trình Đang Thực Hiện. Chọn Tất cả trạng thái để xem cả công trình hoàn thành."
 }
