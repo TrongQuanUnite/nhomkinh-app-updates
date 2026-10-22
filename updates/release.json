@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.12.0",
+  "version": "2.12.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.12.0.zip",
-  "sha256": "fcd2fb5b53428efd58b2102e99fbd2478b8dc58430ca40087ca6de5e807684e6",
-  "notes": "Khách mở web xem công trình ngay, không cần đăng ký. Nút Đăng nhập/Đăng ký ở góc trên; mọi thao tác thay đổi vẫn cần tài khoản có quyền."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.12.1.zip",
+  "sha256": "3a8394bbb7c280b1d93ec2d16a9962afb89c75927958f4ddb631795cff1697d4",
+  "notes": "Thêm trang chính sách riêng tư công khai tại /privacy và liên kết cuối trang để hoàn thiện cấu hình Google OAuth."
 }
