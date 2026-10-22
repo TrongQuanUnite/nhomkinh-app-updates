@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.13.0",
+  "version": "2.13.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.13.0.zip",
-  "sha256": "7de8b7cd40784e29bb2f53f6849f6d38dd51fca6dca354e6295da758a13960bf",
-  "notes": "Lắp đặt chỉ còn báo cáo và ảnh/clip. Thêm tab Kính: Chưa Đặt, Đã Đặt, Đã Nhận kèm số tấm; phân quyền Kính riêng. Giữ dữ liệu cũ và trang chính sách riêng tư."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.13.1.zip",
+  "sha256": "01cf4799827e1e27d9b1075c31a7f980f8e29accaf46fc938ed6e8aadf69376e",
+  "notes": "Sửa lỗi bấm công trình không mở do bộ chọn ô số tấm kính. Giữ tab Kính, Báo cáo và chính sách riêng tư."
 }
