@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.12.1",
+  "version": "2.13.0",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.12.1.zip",
-  "sha256": "3a8394bbb7c280b1d93ec2d16a9962afb89c75927958f4ddb631795cff1697d4",
-  "notes": "Thêm trang chính sách riêng tư công khai tại /privacy và liên kết cuối trang để hoàn thiện cấu hình Google OAuth."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.13.0.zip",
+  "sha256": "7de8b7cd40784e29bb2f53f6849f6d38dd51fca6dca354e6295da758a13960bf",
+  "notes": "Lắp đặt chỉ còn báo cáo và ảnh/clip. Thêm tab Kính: Chưa Đặt, Đã Đặt, Đã Nhận kèm số tấm; phân quyền Kính riêng. Giữ dữ liệu cũ và trang chính sách riêng tư."
 }
