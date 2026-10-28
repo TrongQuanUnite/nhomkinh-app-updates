@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.15.0",
+  "version": "2.15.1",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.15.0.zip",
-  "sha256": "0bfaa6431be7ff16a5f0eec15bd1020f71a6b178b464f4229f4c1b68bab42e4e",
-  "notes": "Bổ sung thông báo đẩy (Web Push) nhắc lịch Lắp lấy ngày trước 24 giờ trên điện thoại và máy tính kể cả khi đóng web."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.15.1.zip",
+  "sha256": "ade04dff4f9b31dbb0932145430101e71c815af23175a7351d18c895b2139f24",
+  "notes": "Tab Kính: khi chọn Đã Đặt hoặc Đã Nhận sẽ hiện thêm 2 ô nhập số lượng Kính Trắng và Kính Mờ."
 }
