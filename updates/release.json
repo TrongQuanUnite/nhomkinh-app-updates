@@ -1,8 +1,8 @@
 {
   "app_id": "nhomkinh-app",
-  "version": "2.15.1",
+  "version": "2.15.2",
   "min_python": "3.10.0",
-  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.15.1.zip",
-  "sha256": "ade04dff4f9b31dbb0932145430101e71c815af23175a7351d18c895b2139f24",
-  "notes": "Tab Kính: khi chọn Đã Đặt hoặc Đã Nhận sẽ hiện thêm 2 ô nhập số lượng Kính Trắng và Kính Mờ."
+  "url": "https://raw.githubusercontent.com/TrongQuanUnite/nhomkinh-app-updates/main/updates/nhomkinh-2.15.2.zip",
+  "sha256": "63f3c0111008012822af587827e8c60e305a2f0346bd4dadb08fded41e330ec9",
+  "notes": "Tab Kính: chọn Đã Đặt/Đã Nhận hiện 2 ô Kính Trắng & Kính Mờ; cho phép bấm Cập nhật ngay từ điện thoại từ xa."
 }
